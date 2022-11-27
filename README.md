@@ -1,12 +1,11 @@
 # Exploring zk-SNARKS and Why They Work
-
 ---------
 ## Extra
-
+---------
 As of 11/27/2022 all the information present is not complete. This guthub serves as a reference to collect my thoughts as I continue learning zk-SNARKS.
---------------
-## References
 
+## References
+--------------
 1. Eli Ben-Sasson, Alessandro Chiesa, Eran Tromer, and Madars Virza. Suc-
 cinct non-interactive zero knowledge for a von neumann architecture. 2019.
 2. Rosario Gennaro, Craig Gentry, Bryan Parno, and Mariana Raykova.
